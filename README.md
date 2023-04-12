@@ -5,5 +5,5 @@ The project uses various data preprocessing techniques to clean and transform th
 
 The project also includes feature engineering techniques to extract additional information from the data, such as creating new variables to capture the effects of weather and time on the bike rental demand.
 
-## Findings:-##
+## Findings:-
 * 
